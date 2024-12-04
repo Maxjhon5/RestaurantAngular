@@ -1,5 +1,6 @@
 .header-contact{
     padding: 0.3rem 15rem;
+    background-color: var(--secondary-color);
 }
 .social-networks i{
     margin: 0.3rem 1rem;

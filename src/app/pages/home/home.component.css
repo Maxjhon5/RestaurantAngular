@@ -5,3 +5,20 @@
 .carousel-caption h1{
     font-size: 5rem;
 }
+
+.boton-carousel{
+    background-color: var(--secondary-color);
+    color: var(--white-color);
+    font-weight: bold;
+    padding: 1rem;
+    width: 12rem;
+}
+#image-right{
+    margin-left: auto;
+}
+#image-left{
+    position: absolute;
+    margin-top: 15rem;
+    margin-left: 5rem;
+    z-index: 2;
+}

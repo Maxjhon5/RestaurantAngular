@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --title-color: #00010a;
+    --secondary-color: #fa8507;
+    --body-color: #777777;
+    --smoke-color: #f6f6f6;
+    --white-color: #ffffff;
+    --black-color: #000000;
+    --dark-color: #151515;
+    --silver-color: #aeaeae;
+    --theme-font1: "Roboto", sans-serif;
+    --theme-font2: "Rufina", serif;
+    --theme-font3: "Cookie", cursive;
+    --icon-font: "Font Awesome 5 Pro";
+    --icon-font2: "Flaticon";
+}
+
+.space{
+    margin-top: 9rem !important;
+}
